@@ -1,1 +1,1 @@
-# Assignment from Andrew Ng's machine learning course on Coursera rewritten by Python
+# Assignments from Andrew Ng's machine learning online course rewritten by Python
